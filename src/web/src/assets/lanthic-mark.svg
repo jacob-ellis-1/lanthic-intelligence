@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Lanthic Single Shard L variant 4</title>
+  <desc id="desc">A more grounded faceted L crystal with a longer foot and restrained rare-earth palette.</desc>
+  <rect width="128" height="128" fill="none"/>
+  <g transform="translate(14 10)">
+    <polygon points="42,0 72,16 72,80 50,100 32,84 32,18" fill="#B8DC60"/>
+    <polygon points="42,0 52,20 52,98 32,84 32,18" fill="#E3EA6B"/>
+    <polygon points="72,16 52,20 52,98 72,80" fill="#6ABE5B"/>
+    <polygon points="42,0 72,16 52,20" fill="#F4E75B"/>
+    <polygon points="50,84 102,76 114,90 56,112 28,98" fill="#ABD860"/>
+    <polygon points="50,84 102,76 84,92 56,112" fill="#DAE86D"/>
+    <polygon points="84,92 114,90 56,112" fill="#60B56B"/>
+  </g>
+</svg>

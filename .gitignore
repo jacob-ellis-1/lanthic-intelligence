@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Secrets / local config
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+credentials.*
+openai_api_key*
+neo4j_password*
+
+# Node/frontend generated junk
+src/web/node_modules/
+src/web/dist/
+src/web/build/
+src/web/.vite/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
